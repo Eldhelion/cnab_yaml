@@ -34,6 +34,13 @@ nosso_numero:
   pos: [45, 57]
   picture: '9(13)'
 
+tipo_documento:
+  # ‘1’ = Tradicional
+  # ‘2’ = Escritural
+  pos: [60,60]
+  picture: 'X(1)'
+  default: '1'
+
 reservado_santander_02:
   pos: [61, 61]
   picture: 'X(1)'
@@ -71,3 +78,18 @@ reservado_santander_05:
 prazo_baixa:
   pos: [226, 227]
   picture: '9(2)'
+
+codigo_moeda:
+  pos: [228, 229]
+  picture: '9(2)'
+  default: '00'
+
+uso_exclusivo_banco_03:
+  pos: [230, 239]
+  picture: 'X(10)'
+  default: ''
+
+uso_exclusivo_febraban_02:
+  pos: [240, 240]
+  picture: 'X(1)'
+  default: ''
