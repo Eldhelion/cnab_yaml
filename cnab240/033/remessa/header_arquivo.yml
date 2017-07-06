@@ -28,10 +28,10 @@ uso_exclusivo_banco_01:
   picture: 'X(25)'
   default: ''
 
-hora_geracao:
+data_geracao:
   pos: [144, 151]
-  picture: 'X(6)'
-  default: ''
+  picture: '9(8)'
+  default: '00000000'
 
 versao_layout_arquivo:
   pos: [164, 166]
