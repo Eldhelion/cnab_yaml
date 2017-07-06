@@ -29,14 +29,14 @@ uso_exclusivo_banco_01:
   default: ''
 
 hora_geracao:
-  pos: [152, 157]
+  pos: [144, 151]
   picture: 'X(6)'
   default: ''
 
 versao_layout_arquivo:
   pos: [164, 166]
   picture: '9(3)'
-  default: '040'
+  default: '030'
 
 uso_exclusivo_febraban_03:
   pos: [167, 240]

@@ -70,6 +70,11 @@ reservado_santander_04:
   picture: 'X(1)'
   default: ''
 
+data_juros_mora:
+  pos: [119,126]
+  picture: '9(8)'
+  date_format: '000000'
+
 reservado_santander_05:
   pos: [225, 225]
   picture: '9(1)'

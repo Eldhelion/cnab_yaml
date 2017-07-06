@@ -3,13 +3,9 @@ uso_exclusivo_banco_01:
   picture: 'X(2)'
   default: ''
 
-codigo_cedente:
-  pos: [34, 42]
-  picture: '9(9)'
-
 uso_exclusivo_banco_02:
-  pos: [43,  53]
-  picture: 'X(11)'
+  pos: [34,  53]
+  picture: 'X(20)'
   default: ''
 
 agencia:
