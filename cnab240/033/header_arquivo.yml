@@ -28,17 +28,13 @@ conta_dv:
   picture: '9(1)'
 
 uso_exclusivo_banco_01:
-  pos: [48, 52]
-  picture: 'X(5)'
+  pos: [48, 72]
+  picture: 'X(25)'
   default: ''
 
-codigo_cedente:
-  pos: [53, 61]
-  picture: '9(9)'
-
 uso_exclusivo_banco_02:
-  pos: [62, 72]
-  picture: 'X(11)'
+  pos: [152, 157]
+  picture: 'X(06)'
   default: ''
 
 uso_exclusivo_febraban_03:
