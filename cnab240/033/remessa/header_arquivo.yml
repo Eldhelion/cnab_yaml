@@ -36,7 +36,7 @@ data_geracao:
 versao_layout_arquivo:
   pos: [164, 166]
   picture: '9(3)'
-  default: '030'
+  default: '040'
 
 uso_exclusivo_febraban_03:
   pos: [167, 240]
