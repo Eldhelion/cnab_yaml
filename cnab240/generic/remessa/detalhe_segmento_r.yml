@@ -102,6 +102,16 @@ mensagem_4:
   default: ''
 
 uso_exclusivo_febraban_03:
-  pos: [180, 240]
-  picture: 'X(61)'
+  pos: [180, 199]
+  picture: 'X(20)'
+  default: ''
+
+uso_exclusivo_febraban_04:
+  pos: [200, 231]
+  picture: '9(32)'
+  default: '0'
+
+uso_exclusivo_febraban_05:
+  pos: [232, 240]
+  picture: 'X(9)'
   default: ''
