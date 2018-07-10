@@ -42,12 +42,6 @@ nosso_numero:
   pos: [38, 57]
   picture: 'X(20)'
 
-agencia_mais_conta_dv:
-  # Campo não tratado pelo Banco do Brasil. Informar 'branco' (espaço) OU zero
-  pos: [37,37]
-  picture: 'X(1)'
-  default: ''
-
 numero_documento:
   # Número adotado e controlado pelo Cliente, para identificar o título de cobrança.
   # Poderá conter número de duplicata, no caso de cobrança de duplicatas; número da apólice, no caso de
