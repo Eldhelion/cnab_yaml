@@ -15,6 +15,7 @@ agencia:
 agencia_dv:
   pos: [58, 58]
   picture: '9(1)'
+  default: '0'
 
 codigo_cedente:
   pos: [59, 68]
@@ -25,7 +26,17 @@ uso_exclusivo_banco_03:
   picture: 'X(5)'
   default: ''
 
-uso_exclusivo_banco_04:
-   pos: [200, 240]
-   picture: 'X(41)'
-   default: ''
+mensagem1:
+  pos: [104, 143]
+  picture: 'X(40)'
+  default: ''
+
+mensagem2:
+  pos: [144, 183]
+  picture: 'X(40)'
+  default: ''
+
+reservado_santander_03:
+  pos: [200, 240]
+  picture: 'X(41)'
+  default: ''
